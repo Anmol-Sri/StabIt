@@ -1,4 +1,5 @@
 # StabIt
 
-A very relaxing version of ANDROID GAME FRUIT NINJA (or FRUIT CUTTER). Made From Scratch :)
+A very relaxing version of FRUIT NINJA (or FRUIT CUTTER). Made From Scratch :)
 Android Development
+ANDROID GAME
