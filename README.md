@@ -8,6 +8,6 @@ shop.
 
 ## Technolgies Used :
 
-Unity
-Blender
-Photoshop
+- **Unity**
+- **Blender**
+- **Photoshop**
